@@ -128,3 +128,4 @@ elif menu == "Consulta Geográfica":
                     ).add_to(mapa)
 
                 st_folium(mapa, width=700, height=500)
+                
