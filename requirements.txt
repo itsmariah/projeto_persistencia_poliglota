@@ -1,0 +1,6 @@
+streamlit
+pymongo
+geopy
+pandas
+folium
+sqlite3-binary
